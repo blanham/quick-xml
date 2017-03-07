@@ -8,6 +8,9 @@
   - test: Adding missing tests
   - chore: Changes to the build process or auxiliary tools/libraries/documentation
 
+## 0.7.4?
+- feat: add dom module to have a DOM like interface wrapper
+
 ## 0.7.3
 - fix: fix Event::Text slice always starting at the beginning of the buffer
 
